@@ -3,7 +3,7 @@ Name=voapps
 Version=2740
 Description=
 Created=2021-02-17
-LastUsed=2024-07-29
+LastUsed=2024-08-02
 Directory=D:\develop\vo\voapps
 LastUser=jcass
 Keywords=
@@ -14,12 +14,12 @@ CurrentUser=
 Repository=D:\develop\vo\voapps
 [EnvironmentOpt]
 RecImp9=c:\develop\vo27\aef\folhapto.aef
-RecImpLast=3
+RecImpLast=4
 RecImp10=c:\develop\vo27\aef\voretrun.aef
 RecImp1=c:\develop\vo27\aef\emailprg.aef
 RecImp2=c:\develop\vo\aef\mail.aef
 RecImp3=c:\users\jcass_000\downloads\hs_regex\hs_regex.aef
-RecImp4=c:\develop\vo27\aef\qualidade.aef
+RecImp4=d:\develop\vo\aef\sqlite\joe_sqlite.aef
 RecImp5=c:\develop\vo27\aef\rh.aef
 RecImp6=c:\develop\vo27\aef\sintegra.aef
 RecImp7=c:\develop\vo27\aef\viabilidade.aef
@@ -72,6 +72,6 @@ ContainerPosition=1,538,216,1084,523
 [SQLEditor]
 LastSource=PF
 [OpenWindows]
-FrameWindow=0,0,0,0,0,3,-1,-1,-1,-1,22,29,1001,717,0
+FrameWindow=0,0,0,0,0,3,-32000,-32000,-1,-1,22,29,1001,717,0
 MaxWindow=1
-Window(1)=15,8,0,57002568,0,3,-1,-1,-8,-31,0,0,1158,487,1,0,0,262144,0,0,0,0,0,0,0,10,0,333,631,100,150,150,100,75,75,50,50,75,56,150,150,150,100,75,75,50,50,75,150,150,150,100,75,75,75,68,75,150,150,150,100,75,50,75,4,1,checagem,15,0,1,2,3,4,5,6,7,8,9,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Window(1)=56,8,939524134,57002872,0,3,-1,-1,-8,-31,0,0,1158,487,1,0,0,262144,0,0,0,0,0,0,0,10,0,333,631,100,150,150,100,75,75,50,50,75,56,150,150,150,100,75,75,50,50,75,150,150,150,100,75,75,75,68,75,150,150,150,100,75,50,75,4,2,SQLite Functions,939524134,0,1,2,3,4,5,6,7,8,9,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
