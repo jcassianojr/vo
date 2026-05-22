@@ -1,6 +1,12 @@
 na declaracao da classe 
 geralmente na StandardShellWindow(ex: engenha) ou da subclasseform(ex:voretrun)
 
+necessario init de preferencia herdar 
+CLASS JIMPEDI INHERIT _JIMPEDI
+METHOD INIT() CLASS JIMPEDI
+SUPER:INIT(oOwner)	
+SELF:SHOW()
+
 
 declarar as 
     PROTECT oPrinter   		AS BL_Printer
@@ -9,7 +15,7 @@ declarar as
 	PROTECT oPrinterRTF		AS BL_Printer
 	PROTECT cFileRTF		AS STRING
 	
-	EXPORT OWNER
+	EXPORT oOwner
     
     
   no init da classe atencao para nao declarar depois dos methodos inicial como show() pois nao ira estanciar
