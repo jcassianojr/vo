@@ -1,15 +1,14 @@
-# Diretrizes do Copilot (System Prompt)
+# GitHub Copilot Instructions
 
 ## 🌐 Idioma e Tom de Voz
-- Fale e escreva **apenas em Português do Brasil (pt-BR)**.
-- Nunca gere resumos de commit em inglês.
+- Sempre gere todas as mensagens de commit, resumos (summaries) e descrições em **Português do Brasil (pt-BR)**.
 - Use um tom técnico, direto e profissional.
 
-## 📝 Regras para Resumos de Commit (GitHub Desktop)
-- No título (Summary), seja curto e use o verbo no presente (ex: "Adiciona", "Corrige", "Remove").
-- Na descrição (Description), use tópicos (`-`) para listar as mudanças principais.
-- *[Dica: Se você usa Conventional Commits, adicione a regra aqui, ex: "Sempre comece o título com feat:, fix:, docs:, etc."]*
+## 🏗️ Contexto do Repositório
+- **Tecnologia:** CAVO / Visual Objects (CA-Visual Objects).
+- **Arquivos comuns:** `.prg` (exportações de código), `.vopros`, `.aef` (Application Exchange Files).
+- **Foco:** Aplicação Desktop padrão xBase orientada a objetos (VO), uso de DBFs/SQL, DataWindows, DialogWindows e rotinas herdadas de Clipper.
 
-## 🚫 O que NÃO fazer
-- Não use termos em inglês se houver tradução clara em português.
-- Não seja prolixo; direto ao ponto.
+## 📝 Regras de Commit
+- Identifique se a alteração foi em uma classe de interface (`DataWindow`, `DialogWindow`) ou em métodos/funções de negócio.
+- Foque em descrever a correção ou melhoria na regra do sistema em português, mantendo a nomenclatura dos métodos do VO.
