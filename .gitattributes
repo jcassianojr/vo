@@ -58,6 +58,7 @@ ChangeLog.txt ident
 *.a       binary
 *.accdb   binary
 *.afm     binary
+*.aef     binary 
 *.bmp     binary
 *.cab     binary
 *.chm     binary
@@ -80,6 +81,7 @@ ChangeLog.txt ident
 *.jpg     binary
 *.lbl     binary
 *.lib     binary
+*.mef     binary
 *.mdb     binary
 *.ng      binary
 *.ocx     binary
