@@ -45,3 +45,7 @@
 - [sistema](<sistema.md>)
 - [somaano](<somaano.md>)
 - [voretrun](<voretrun.md>)
+
+
+base de dados e ddl 
+https://github.com/jcassianojr/modelos
