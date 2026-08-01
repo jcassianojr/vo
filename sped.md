@@ -1,6 +1,0 @@
-# sped
-
-modulo sped
-
-***
-

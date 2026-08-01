@@ -1,6 +1,0 @@
-# sintegra
-
-modulo sintegra fiscal
-
-***
-

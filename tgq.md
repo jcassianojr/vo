@@ -1,7 +1,0 @@
-# tgq
-
-modulo tgq
-
-
-***
-

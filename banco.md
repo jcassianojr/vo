@@ -1,5 +1,0 @@
-# banco
-
-modulo banco
-
-***

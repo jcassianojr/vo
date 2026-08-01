@@ -1,6 +1,0 @@
-# qualida
-
-modulo qualidade
-
-***
-

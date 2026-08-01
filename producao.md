@@ -1,6 +1,0 @@
-# producao
-
-modulo producao
-
-***
-

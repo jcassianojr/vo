@@ -1,6 +1,0 @@
-# engenha
-
-modulo engenha
-
-***
-_
